@@ -1,0 +1,1 @@
+This project implements a complete authentication system using Django Rest Framework (DRF). It includes features such as registration, login, profile management, password change, sending reset password emails, and resetting passwords using tokens.
