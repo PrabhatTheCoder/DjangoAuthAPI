@@ -35,11 +35,13 @@ This project implements a complete authentication system using Django Rest Frame
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/PrabhatTheCoder/DjangoAuthAPI.git
    cd your-repository
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
-3. Run the development server:
+4. Run the development server:
+   ```bash
    python manage.py runserver
 
 ## Usage
